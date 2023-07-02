@@ -1,0 +1,10 @@
+Title: Block "What you won't to pay for" in the section [Charge & fees] isn't fully visible
+Steps: 1. Navigate to Capital.com
+2. Tap Burger menu
+3. Expand menu section [Products and services]
+5. Tap on menu items [Charge & fees]
+6. Scroll down to block "What you won't to pay for"
+Expected Result:
+The table "What you won't to pay for" is fully visible
+Actual Result:
+The table "What you won't to pay for" isn't fully visible
